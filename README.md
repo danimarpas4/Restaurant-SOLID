@@ -103,4 +103,4 @@ Contributions are welcome. Please ensure any Pull Request adheres to the existin
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
-*Developed by Daniel Martínez - Junior Software Engineer specialized in High-Integrity Systems.*
+*Developed by Daniel Martínez Pascual- Junior Software Engineer specialized in High-Integrity Systems.*
